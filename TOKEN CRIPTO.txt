@@ -1,0 +1,9 @@
+TOKEN CRIPTO
+VPXqPM09dQ1aUeU2TzuiBIbnTP5Is5GXMgp0bc8KBDqVP21ujzmlkvvBs3dw-JKKzB-0D5ogWB1joZKiOgbdCw==
+
+TOKEN MESTRE
+HzcJOSnjCoNb8dOxVVfc-SMh4PnkiurNjGZCHky8Cdw7uik81KJ9AQuDONa9-7erTKkdCL2iX_AKdMpGcQH1Fw==
+
+ORG
+# Modifique esta linha no seu script app.py
+ORG = "265147d78b076bda"
