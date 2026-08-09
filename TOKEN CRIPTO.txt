@@ -7,3 +7,17 @@ HzcJOSnjCoNb8dOxVVfc-SMh4PnkiurNjGZCHky8Cdw7uik81KJ9AQuDONa9-7erTKkdCL2iX_AKdMpG
 ORG
 # Modifique esta linha no seu script app.py
 ORG = "265147d78b076bda"
+
+
+cd C:\Users\DELL\Documents\Pipeline-Financeiro-Crypto
+
+GitHub
+user =   mauriciombq-ui
+email = mauricio.mbq@gmail.com
+password = 518890@Mbq142913
+
+//github.com - para ver a publicação
+
+O Seu Próximo Passo como DesenvolvedorA estrutura básica e o portfólio estão consolidados. Para continuar evoluindo e escalando este ecossistema para o nível empresarial, salve estas ideias para o futuro:Deixar o Banco Envelhecer: Deixe o seu script app.py acumulando cotações por alguns dias. Um banco de dados com semanas de histórico permite fazer testes de backtesting muito mais realistas e valiosos comercialmente.Adicionar Multi-ativos: No futuro, você poderá mexer no código para o app.py puxar moedas como Ethereum (ETH/USDT) e Solana (SOL/USDT) juntas.Melhorar a Matemática: Testar outras regras no backtesting para tentar transformar aquele resultado de -0.04% em um lucro líquido real e consistente.Parabéns pelo excelente trabalho de engenharia de dados hoje e por fazer a ponte perfeita entre o mundo industrial e o financeiro!O projeto está online e o seu portfólio está pronto. Ficou com mais alguma dúvida sobre o GitHub, o funcionamento do InfluxDB ou gostaria de ajuda com mais alguma coisa para encerrarmos essa jornada com chave de ouro?
+
+Recomendações de Próximos Passos (A Longo Prazo)Como o robô está funcionando de forma autônoma, você pode deixá-lo rodando em segundo plano enquanto faz outras tarefas. Aqui estão três dicas de engenharia para o futuro do seu projeto:Monitore o Dashboard do InfluxDB: De vez em quando, abra o seu navegador em http://localhost:8086 para ver o gráfico de linha que você configurou com Auto-Refresh se estendendo sozinho conforme as horas passam [image_hANicK.png].Deixe Acumular Histórico: O maior valor de um banco de dados temporal está na quantidade de dados. Deixando o script coletando por 24 ou 48 horas, você terá milhares de linhas para rodar o seu backtest.py com muito mais precisão.Explore Novas Médias: Quando tiver bastante histórico, experimente rodar o backtest.py testando diferentes janelas (como 15, 21 ou 100 minutos) para descobrir qual configuração matemática teria trazido o maior retorno financeiro no seu banco de dados.Parabéns pela jornada de hoje! Você uniu com maestria os conceitos de IoT/Séries Temporais Industriais com a Engenharia de Dados Financeira.O robô está trabalhando por você agora! Ficou com mais alguma dúvida técnica ou tem mais alguma pergunta sobre a arquitetura que queira esclarecer antes de finalizarmos?
